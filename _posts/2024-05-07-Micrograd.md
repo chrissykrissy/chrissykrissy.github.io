@@ -1,7 +1,7 @@
 ---
 title : Micrograd
 date: 2024-05-07 +0800
-categories: [AI/ML]
+categories: [ML]
 tags: [ai, ml]
 ---
 
